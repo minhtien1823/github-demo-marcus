@@ -1,1 +1,6 @@
-<hi> Hello Ae</hi>
+#include <stdio.h>
+int main()
+{
+  printf("Chao Mn);
+}
+         

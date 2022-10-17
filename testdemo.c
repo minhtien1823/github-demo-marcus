@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-  printf("Chao Mn);
+  printf("Chao M n);
 }
          
